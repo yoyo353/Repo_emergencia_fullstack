@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InventarioApplication",
+            "request": "launch",
+            "mainClass": "com.tuempresa.inventario.InventarioApplication",
+            "projectName": "inventario"
+        },
+        {
+            "type": "java",
+            "name": "InventarioApplication",
+            "request": "launch",
+            "mainClass": "InventarioApplication",
+            "projectName": "Repo_emergencia_fullstack_3d22892e"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-CarritoApplication<carrito>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
